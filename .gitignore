@@ -1,0 +1,19 @@
+venv/
+.venv/
+
+# временные и служебные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+
+# ноутбуки и кэши
+.ipynb_checkpoints/
+
+# конфиденциальные данные
+.env
+*.json
+*.pkl
+*.h5
